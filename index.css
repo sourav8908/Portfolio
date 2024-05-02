@@ -43,6 +43,9 @@ body {
     overflow-x: hidden;
     padding-left: 35rem;
 }
+.organized-paragraph {
+    line-height: 1.5; /* Adjust this value to control the spacing between lines */
+}
 
 section {
     min-height: 100vh;
